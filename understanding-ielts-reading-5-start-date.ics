@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+DTSTAMP:20201010T050309Z
+UID:understanding-ielts-reading-5
+DTSTART;VALUE=DATE:20201019
+DESCRIPTION:Find out what you need to know about the IELTS Reading test and
+  learn techniques and strategies to improve your test performance.\n\nIt s
+ tarts from midnight UTC at:\n\nhttps://www.futurelearn.com/courses/underst
+ anding-ielts-reading/5
+LOCATION:Online - FutureLearn.com
+SUMMARY:Understanding IELTS: Reading - course starts
+URL:https://www.futurelearn.com/courses/understanding-ielts-reading/5
+END:VEVENT
+END:VCALENDAR
