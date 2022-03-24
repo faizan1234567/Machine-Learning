@@ -33,7 +33,7 @@ anti-spam), computer vision,
 
 
 ## Credits
-This repository my work for this course. This has
+This repository is my work for this course. This has
 been created to help learners when they are stuck in
 programming assignments. The code base, quiz questions, and 
 diagrams are taken from the [Machine Learning course](https://www.coursera.org/learn/machine-learning?).
